@@ -1,0 +1,2 @@
+# type
+first typescript project
